@@ -2,8 +2,6 @@
 
 **Database Name: dbwedding**
 
-**Developed by John Paul Lim Gabule**
-
 **Recommended PHP Version 5.6, 7.4**
 
 **Admin Login Details**
